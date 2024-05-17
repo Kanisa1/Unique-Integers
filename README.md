@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 # Unique-Integers
 Unique Integers Processor
-=======
-                                            **Unique Integers Processor**
-
-
->>>>>>> 73588d57dabbfb384b79416a1a576ece7a9eda97
 This Python script processes input files containing integers and generates output files with unique integers sorted in ascending order.
 
 Features
@@ -14,7 +8,6 @@ Generates an output file with a list of unique integers present in the input fil
 Handles various input file variations, such as whitespace, empty lines, and non-integer inputs.
 Usage
 Ensure Python is installed on your system.
-<<<<<<< HEAD
 Clone or download this repository.
 Navigate to the directory containing the script (UniqueInt.py).
 Open a terminal or command prompt in the directory.
@@ -22,15 +15,6 @@ Run the script using the command:
 bash
 Copy code
 python UniqueInt.py
-=======
-Clone your repository.
-Navigate to the directory containing the script (UniqueInt.py).
-Open a terminal in the directory.
-Run the script using the command:
-bash
-python UniqueInt.py
-
->>>>>>> 73588d57dabbfb384b79416a1a576ece7a9eda97
 Check the sample_results directory for the generated output files.
 Directory Structure
 The script assumes the following directory structure:
@@ -48,12 +32,7 @@ Example
 Suppose we have input files sample_input_01.txt and sample_input_02.txt in the sample_inputs directory. After running the script, it will process each input file and generate corresponding output files in the sample_results directory.
 
 graphql
-<<<<<<< HEAD
 Copy code
 Processed input file sample_input_01.txt. Output file: C:\dsa\hw01\sample_results\sample_input_01.txt_results.txt
 Processed input file sample_input_02.txt. Output file: C:\dsa\hw01\sample_results\sample_input_02.txt_results.txt
 
-=======
-Processed input file sample_input_01.txt. Output file: C:\dsa\hw01\sample_results\sample_input_01.txt_results.txt
-Processed input file sample_input_02.txt. Output file: C:\dsa\hw01\sample_results\sample_input_02.txt_results.txt
->>>>>>> 73588d57dabbfb384b79416a1a576ece7a9eda97
