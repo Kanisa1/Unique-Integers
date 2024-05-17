@@ -1,4 +1,6 @@
-Unique Integers Processor
+                                            **Unique Integers Processor**
+
+
 This Python script processes input files containing integers and generates output files with unique integers sorted in ascending order.
 
 Features
